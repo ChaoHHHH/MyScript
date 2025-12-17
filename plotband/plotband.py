@@ -2,7 +2,7 @@
 Author: Chao
 Date: 2025年12月17日21:24:31
 
-PWmat在绘制能带中，最后使用plot_band_structure.x后会生成bandstructure_1 or 2 if spin = 2，总之会有这样的文件，本scrip用来绘制能带图
+PWmat在绘制能带中，最后使用plot_band_structure.x后会生成bandstructure_1 or will also get 2 if spin = 2，总之会有这样的文件，本scrip用来绘制能带图
 """
 
 import matplotlib.pyplot as plt
